@@ -1,0 +1,9 @@
+Prompt V1:
+Use the latest version of PEP to document the following python code with the following description
+
+python code:
+------ paste your python code here ------
+
+code description: 
+------ write a brief description here ----
+This function gives us a detailed breakdown of Revenue, Cost, Demand and ROI of the respective column provided in the function. This column is coming from the Retail Food line of the Business.
